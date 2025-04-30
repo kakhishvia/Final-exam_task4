@@ -1,0 +1,1 @@
+Hello Bob, this message is encrypted and signed by Alice.
